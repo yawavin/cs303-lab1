@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Eater';
+    src: url('https://fonts.googleapis.com/css2?family=Eater&display=swap');
+}
+
+p {
+    font-family: 'Eater';
+}
+
+li {
+    display: inline;
+}
