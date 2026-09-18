@@ -3,10 +3,25 @@
     src: url('https://fonts.googleapis.com/css2?family=Eater&display=swap');
 }
 
-p {
-    font-family: 'Eater';
+h1 {
+    font-family: 'Eater', serif;
 }
 
 li {
     display: inline;
+    font-family: 'Eater', serif;
+    text-decoration: none;
+}
+
+#container{
+    text-align: center;
+}
+
+nav {
+    width: 30%;
+    background-color: green;
+}
+
+main {
+    width: 70%;
 }
