@@ -3,6 +3,10 @@
     src: url('https://fonts.googleapis.com/css2?family=Eater&display=swap');
 }
 
+body {
+    background-color: antiquewhite;
+}
+
 h1 {
     font-family: 'Eater', serif;
 }
